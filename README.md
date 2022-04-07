@@ -1,6 +1,6 @@
 # Notion Assignment Import
 
-A fully-configurable [Chrome extension](https://chrome.google.com/webstore/detail/elbkjcjgakaoccocmbglokgmalkoacie/) to parse the asssignments from a [Canvas LMS](https://www.instructure.com/canvas) course assignments page and load them into a [Notion](https://www.notion.so/) database at the click of a button — unlock your full time-management and productivity potential!
+A fully-configurable [Chrome extension](https://chrome.google.com/webstore/detail/elbkjcjgakaoccocmbglokgmalkoacie/) to auto-magically load [Canvas](https://www.instructure.com/canvas) asignments into a [Notion](https://www.notion.so/) database at the click of a button — unlock your full time-management and productivity potential!
 
 - [Features](#features)
 - [Screenshots](#screenshots)
@@ -19,7 +19,7 @@ A fully-configurable [Chrome extension](https://chrome.google.com/webstore/detai
 # Features
 
 - Simple and user-friendly interface
-- Provided Notion database template
+- Provided [Notion database template](https://jamesnzl-sandbox.notion.site/c4d73bebd39c4103b96b2edb8be9e0bd?v=9afaf4b4faee4a5a977c00291be06c9e)
 - Configurable options
 - `Category` database property for seamless integration into an existing tasks database
 - Fine-tuning of database property names and values
