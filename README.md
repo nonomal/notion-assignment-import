@@ -1,6 +1,6 @@
 # Notion Assignment Import
 
-A fully-configurable [Chrome extension](https://chrome.google.com/webstore/detail/elbkjcjgakaoccocmbglokgmalkoacie/) to auto-magically load [Canvas](https://www.instructure.com/canvas) asignments into a [Notion](https://www.notion.so/) database at the click of a button — unlock your full time-management and productivity potential!
+A fully-configurable [Chrome extension](https://chrome.google.com/webstore/detail/elbkjcjgakaoccocmbglokgmalkoacie/) to load [Canvas](https://www.instructure.com/canvas) assignments into a [Notion](https://www.notion.so/) database, at just the click of a button — unlock your full time-management and productivity potential!
 
 - [Features](#features)
 - [Screenshots](#screenshots)
